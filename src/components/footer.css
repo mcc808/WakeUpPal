@@ -1,0 +1,11 @@
+.footer{
+    padding: 20px 10px 10px 10px;
+    background-color: rgb(124, 75, 12);
+    border-top: 1px solid #6a6a6a;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.footer div{
+    flex: 1; 
+}
